@@ -1,7 +1,7 @@
 # Simple Linux/UNIX Shell
-An interactive shell in C that mirrors a Linux/UNIX shell, accepting and executing fundamental commands. Enhances the user's ability to interact with the operating system in a command-line experience, enabling efficient and precise control over system resources, file structures, and processes.
+This interactive shell written in C mirrors a Linux/UNIX shell, accepting and executing fundamental commands to enhance the user's ability to interact with the operating system in a command-line experience, enabling efficient and precise control over system resources, file structures, and processes.
 
-Project was completed in June 2023 for Syracuse CPS 500 Computer Organization and Operating Systems with Professor William Katsak. Makefile, argset.c, and argset.h provided by professor, as well as two sections in the simplesh.c file (indicated by comments).
+Project was completed in June 2023 for Syracuse CPS 500 Computer Organization and Operating Systems with Professor William Katsak. Makefile, argset.c, and argset.h were provided by professor, as well as two sections in the simplesh.c file (indicated in the comments).
 
 <img width="571" alt="image" src="https://github.com/hcharise/Simple-Linux-UNIX-Shell/assets/110205350/c64cc26c-f853-4227-84bb-533d2769bde8">
 
